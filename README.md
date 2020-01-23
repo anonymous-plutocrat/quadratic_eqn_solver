@@ -1,4 +1,5 @@
 # quadratic_eqn_solver
+![](Screenshots/quadratic%20solver%20portrait%20view.PNG)
 
 A simple App to solve a Quadratic equation.
 
